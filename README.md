@@ -55,17 +55,17 @@
       
     * 系統架構
     
-      ![image](https://user-images.githubusercontent.com/82867224/134679381-1c17ca11-e3b6-430e-9872-8d8396e69c03.png)
+     ![image](https://user-images.githubusercontent.com/82867224/134679928-b399c02f-8cd8-46b6-abe2-53802a1b8b12.png)
       
       圖2 影像傳送架構圖
       飼主可以由樹莓派和攝像頭結合的即時影像，傳至飼主的手機內，提供飼主隨時隨地，只要是連的上網路的地方，即可以觀察寵物狀況。
       
-      ![image](https://user-images.githubusercontent.com/82867224/134679539-a1fc6659-e4bd-4596-82b4-e11c9420873e.png)
+      ![image](https://user-images.githubusercontent.com/82867224/134680227-c834984f-2db8-4041-a313-b2b5583d007a.png)
       
       圖3 偵測拍照架構圖
       
-      ![image](https://user-images.githubusercontent.com/82867224/134679621-014341c4-10a0-415b-b937-7973ac165a8c.png)
-
+      ![image](https://user-images.githubusercontent.com/82867224/134680254-61a78107-207c-4ad2-b4e1-d179a23cdaa4.png)
+      
       圖4 傳送通知架構圖
       
       
